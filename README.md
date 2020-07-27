@@ -1,1 +1,1 @@
-# learning-camp-2
+# Learning-camp-02
